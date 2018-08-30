@@ -2,7 +2,6 @@
 	display: inline-block;
 	position: relative;
 	overflow: hidden !important;
-	font: inherit;
 	-webkit-text-size-adjust: none !important;
 }
 
@@ -15,7 +14,6 @@
 	padding-right: 99px !important;
 	overflow-x: hidden !important;
 	overflow-y: auto !important;
-	font: inherit;
 }
 
 .hwt-highlights {
@@ -26,7 +24,6 @@
 	word-wrap: break-word !important;
 	color: transparent !important;
 	overflow: hidden !important;
-	font: inherit;
 }
 
 .hwt-input {
@@ -41,7 +38,8 @@
 }
 
 .hwt-content {
-	
+	border: 1px solid;
+	background: none transparent !important;
 }
 
 .hwt-content mark {
