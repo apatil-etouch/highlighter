@@ -39,6 +39,7 @@
 
 .hwt-content {
 	border: 1px solid;
+	font: inherit;
 	background: none transparent !important;
 }
 
