@@ -1,8 +1,7 @@
 .hwt-container {
 	display: inline-block;
 	position: relative;
-	overflow: hidden !important;
-	font: inherit;
+	overflow: hidden !important;	 
 	-webkit-text-size-adjust: none !important;
 }
 
