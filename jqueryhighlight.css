@@ -1,7 +1,7 @@
 .hwt-container {
 	display: inline-block;
 	position: relative;
-	overflow: hidden !important;	 
+	overflow: hidden !important;	
 	-webkit-text-size-adjust: none !important;
 }
 
@@ -14,7 +14,7 @@
 	padding-right: 99px !important;
 	overflow-x: hidden !important;
 	overflow-y: auto !important;
-	 
+	
 }
 
 .hwt-highlights {
