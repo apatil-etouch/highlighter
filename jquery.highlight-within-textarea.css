@@ -30,14 +30,13 @@
 }
 
 .hwt-input {
-	display: block !important;
-	position: relative !important;
-	margin: 0;
-	padding: 0;
-	border-radius: 0;
-	font: inherit;
-	overflow-x: hidden !important;
-	overflow-y: auto !important;
+	
+  position:absolute;
+  left:0;
+  top:0;
+  resize:none;
+  white-space:pre-wrap;
+  word-wrap:break-word;
 }
 
 .hwt-content {
